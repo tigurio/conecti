@@ -1,0 +1,26 @@
+{
+  "name": "medgov",
+  "version": "0.0.1",
+  "description": "Sistema MedGov SUS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tigurio/conecti.git"
+  },
+  "keywords": [
+    "sus",
+    "conecti",
+    "medgov"
+  ],
+  "author": "Thiago Santos <tigurio@gmail.com> (http://tigurio.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tigurio/conecti/issues"
+  },
+  "homepage": "https://github.com/tigurio/conecti#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
